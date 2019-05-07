@@ -1,1 +1,1 @@
-include ':app', ':kutils'
+include ':app', ':kutils', ':kmvp'
