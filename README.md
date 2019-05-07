@@ -19,5 +19,4 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.kangliangup:MyFrame:0.0.1'
 	}
-Copy
-Share this release:
+
